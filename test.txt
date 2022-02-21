@@ -1,4 +1,4 @@
 1. git add
 2. git commit <file name> -m "sr1"
 3. git remote rigion url
-4. git puch rigion master
+4. git push rigion master
